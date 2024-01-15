@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Sarah Qin                |   
+| Jiawei He              |   
+| Nichols Garcia               |   
+| Findlay Brown                |   
 
 
 **Table of Contents**
